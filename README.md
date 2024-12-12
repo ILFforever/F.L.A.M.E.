@@ -24,6 +24,7 @@
 - Pioritizes reducing panic and confusion for occupants.
 - Allow for PA announcements broadcasted wirelessly *(Via use of a Master terminal)*
 
+![alt text](https://github.com/ILFforever/F.L.A.M.E./blob/main/image/bottom_compartment.jpg "Bottom_Compartment")
 ### Backup Power Supply
 - FLAME. ensures functionality during power outages with a **built-in UPS solution providing 7200mah at 7.4 Volts**.
 - Over **2.5 hours** of estimated battery life at the 3 Amps max load** 
