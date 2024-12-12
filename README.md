@@ -1,4 +1,7 @@
 # Fire Alarm with Localized Mesh Technology and Auditorial Announcement (F.L.A.M.E.)
+*Gold Medalist of Thailands SCiUS 14th Forum STEM branch*
+
+![alt text](https://github.com/ILFforever/F.L.A.M.E./blob/main/image/lineup.jpg "FLAME units")
 
 ## Project Overview
 
@@ -10,6 +13,8 @@
 ### Accurate Fire Detection
 - Utilizes an array 3 of **MQ-2** gas sensors and **DHT22** temperature sensors*
 - for precise monitoring or CO (Carbon monoxide) and Smoke particles
+
+![alt text](https://github.com/ILFforever/F.L.A.M.E./blob/main/image/top_off.JPG "Sensor service lid removed")
 
 ### Mesh Networking
 - Implements **Wi-Fi mesh technology (via PainlessMesh)** for seamless 2-way communication between alarm units.
