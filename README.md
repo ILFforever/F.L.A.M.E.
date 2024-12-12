@@ -38,11 +38,12 @@
 - Coming in at only **13 cm x 13 cm x 11 cm** each unit is compact and comes with a built-in AC-DC adapter!
 - Loud piezo buzzer alert system for emergencies
 
-######  *DHT22 is only for monitoring MQ-2 heating element temperature
-###### **Before system enters low power mode
+>   *DHT22 is only for monitoring MQ-2 heating element temperature
+> 
+>  **Before system enters low power mode
 
 ## Software
-Main Programming Languages: Arduino C++, Python
+> Main Programming Languages: Arduino C++, Python
 
 Main libraries Used:
 ```c
