@@ -12,7 +12,7 @@
 
 ### Accurate Fire Detection
 - Utilizes an array 3 of **MQ-2** gas sensors and **DHT22** temperature sensors*
-- for precise monitoring or CO (Carbon monoxide) and Smoke particles
+- for precise monitoring or **CO (Carbon monoxide)** and **Smoke particles**
 
 ![alt text](https://github.com/ILFforever/F.L.A.M.E./blob/main/image/top_off.JPG "Sensor service lid removed")
 
