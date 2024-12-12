@@ -32,7 +32,7 @@
 - FLAME allows users to simply configure and power on the device. **FLAME will figure the rest!**
 - No wiring or server required!
 
-### Others
+### Other Features
 - FLAME. supports over 200 devices in a single mesh network, making it ideal for large buildings.
 - Coming in at only **13 cm x 13 cm x 11 cm** each unit is compact and comes with a built-in AC-DC adapter!
 - Loud piezo buzzer alert system for emergencies
