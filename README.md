@@ -37,7 +37,7 @@
 - FLAME. supports over 200 devices in a single mesh network, making it ideal for large buildings.
 - Coming in at only **13 cm x 13 cm x 11 cm** each unit is compact and comes with a built-in AC-DC adapter!
 - Loud piezo buzzer alert system for emergencies
-
+- [Full presentation](https://www.canva.com/design/DAFgXDmPv9E/pQsmitHuM79DFmavD8RFxw/edit?utm_content=DAFgXDmPv9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >   *DHT22 is only for monitoring MQ-2 heating element temperature
 > 
 >  **Before system enters low power mode
