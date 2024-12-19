@@ -1,7 +1,7 @@
 # Fire Alarm with Localized Mesh Technology and Auditorial Announcement (F.L.A.M.E.)
 *Gold Medalist of Thailands SCiUS 14th Forum STEM branch*
 
-![alt text](https://github.com/ILFforever/F.L.A.M.E./blob/main/image/lineup.jpg "FLAME units")
+![Units](https://github.com/ILFforever/F.L.A.M.E./blob/main/image/lineup.jpg "FLAME units")
 
 ## Project Overview
 
